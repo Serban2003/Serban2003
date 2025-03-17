@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Iustinian Serban!
 
-- 🔭 I’m currently in an AI Internship at <a href="https://www.cds.ro">CDS</a>
+- 🔭 I’m currently working as a Junior Software Engineer at <a href="https://www.cds.ro">CDS</a>
 - 🤖 I'm currently Project Manager at <a href="https://www.instagram.com/river.erc.rover">Project RIVER</a>
-- 🌱 I'm currently in my second year at the Automation and Computer Science Faculty.
+- 🌱 I'm currently in my third year at the Automation and Computer Science Faculty.
 <br><br>
 
 ### 🤝 Connect with me
